@@ -1,5 +1,5 @@
 # 这是springboot相关配置，其实可以在这里面配置微服务，但不建议，serviceComb相关配置最好在yaml中配置比如他的
-# 中间件，微服务端口微服务名，当然application的加载会覆盖yaml 的相同配置
+# 服务治理，微服务端口微服务名，当然application的加载会覆盖yaml 的相同配置
 server:
   port: 9003 #服务端口
 zuul:

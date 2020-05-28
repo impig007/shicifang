@@ -1,0 +1,4 @@
+com\huawei\entity\PageResult.class
+com\huawei\entity\Result.class
+com\huawei\entity\StatusCode.class
+com\huawei\util\IdWorker.class
