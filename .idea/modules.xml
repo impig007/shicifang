@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../employment/shicifang/shicifang.iml" filepath="$PROJECT_DIR$/../employment/shicifang/shicifang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../employment/shicifang/shicifang-common/shicifang-common.iml" filepath="$PROJECT_DIR$/../employment/shicifang/shicifang-common/shicifang-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../employment/shicifang/shicifang-friend/shicifang-friend.iml" filepath="$PROJECT_DIR$/../employment/shicifang/shicifang-friend/shicifang-friend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../employment/shicifang/shicifang-friend-inteface/shicifang-friend-inteface.iml" filepath="$PROJECT_DIR$/../employment/shicifang/shicifang-friend-inteface/shicifang-friend-inteface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../employment/shicifang/shicifang-gateway-web/shicifang-gateway-web.iml" filepath="$PROJECT_DIR$/../employment/shicifang/shicifang-gateway-web/shicifang-gateway-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../employment/shicifang/shicifang-qa/shicifang-qa.iml" filepath="$PROJECT_DIR$/../employment/shicifang/shicifang-qa/shicifang-qa.iml" />
+    </modules>
+  </component>
+</project>
